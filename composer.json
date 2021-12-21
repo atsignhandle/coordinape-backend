@@ -25,6 +25,7 @@
         "league/flysystem-aws-s3-v3": "~1.0",
         "predis/predis": "^1.1",
         "sc0vu/web3.php": "dev-master",
+        "sentry/sentry": "^3.3",
         "sentry/sentry-laravel": "^2.8",
         "simplito/elliptic-php": "^1.0",
         "snoeren-development/laravel-discord-webhook-channel": "^1.3"
